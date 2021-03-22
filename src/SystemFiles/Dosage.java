@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package assignment1;
+package SystemFiles;
 
 /**
  *
  * @author Raj
  */
 public class Dosage {
+	double amount;
+	String howOften;
     
 }
