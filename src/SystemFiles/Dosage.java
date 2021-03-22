@@ -14,5 +14,6 @@ public class Dosage {
 	String howOften;
 	String test;
 	String thisisdumbv;
+	String test2;
     
 }
