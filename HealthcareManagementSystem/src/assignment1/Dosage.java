@@ -10,5 +10,6 @@ package assignment1;
  * @author Raj
  */
 public class Dosage {
-    
+    double amount;
+    String howOften;
 }
