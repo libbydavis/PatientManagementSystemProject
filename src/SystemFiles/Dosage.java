@@ -17,5 +17,6 @@ public class Dosage {
 	String test2;
 	String test3;
 	String test43;
+	String plswork;
     
 }
